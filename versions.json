@@ -1,0 +1,12 @@
+{
+  "10.0": {
+    "variants": [
+      "jdk17/graalvm-ce"
+    ]
+  },
+  "10.1": {
+    "variants": [
+      "jdk17/graalvm-ce"
+    ]
+  }
+}
